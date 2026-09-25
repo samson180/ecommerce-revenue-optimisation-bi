@@ -10,7 +10,7 @@ This BI project delivers an interactive dashboard tracking $10.64M in transactio
 
 ## Data Engineering & Cleaning Steps (Power Query)
 * **Transaction Filtering**: Structured data filters to isolate active sales cycles by removing transactional returns and order cancellations where Quantity ≤ 0.
-* **Global Schema Alignment**: Used a Locale Transformation (English-US format conversion) to fix cross-regional text mismatches across 300,000+ localised date rows.
+* **Global Schema Alignment**: Used a Locale Transformation (English-US format conversion) to fix cross-regional text mismatches across 300,000+ date rows.
 * **Calculated Business Logic (DAX)**: Programmed a granular calculated column layer multiplying unit cost by quantity to find the exact row-level Gross Revenue.
 
 ## Executive Insights & Business Value
