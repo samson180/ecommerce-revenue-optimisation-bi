@@ -1,4 +1,4 @@
-# Executive E-Commerce Sales & Revenue Optimization Dashboard
+# Executive E-Commerce Sales & Revenue Dashboard
 
 ## Project Preview
 Below is a snapshot of the final interactive dashboard canvas. Technical hiring managers can download the raw `ecommerce-sales-analytics.pbix` file from this repository to review the full relational data model, internal documentation logs, and active DAX formulas from their own computers.
